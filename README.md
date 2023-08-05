@@ -35,7 +35,7 @@ git clone https://github.com/ajaypanwar7472/Starbucks_website.git
 
 ## 🤝 Contributing 
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ajaypanwar7472/Starbucks_website).
 
 ## ⭐️ Show your support 
 
